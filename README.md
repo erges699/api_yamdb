@@ -148,3 +148,6 @@ python3 manage.py import_csv
 
 Если необходимо снова загрузить данные из CSV файлов, сначала удалите файо db.sqlite3 для очистки базы данных.
 Затем запустите `python3 manage.py migrate --run-syncdb` для создания пустой базы данных с таблицами
+
+<h3 align="left">Об авторе:</h3>
+<a href="https://github.com/erges699" target="_blank">Сергей Баляба</a>
