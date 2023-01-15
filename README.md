@@ -1,4 +1,4 @@
-# api_yamdb
+# Проект Review and API for YaMDb
 
 Проект создан в рамках обучения <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">Django</a> на факультете Бэкенд. Когорта №9+ Яндекс.Практикум.
 
