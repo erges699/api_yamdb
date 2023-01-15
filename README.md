@@ -1,17 +1,14 @@
 # api_yamdb
 
-<h1 align="center">Привет! </h1>
-<h3 align="center">Студенты факультета Бэкенд. Когорта №9+ Яндекс.Практикум</h3>
-<h3 align="center">Над проектом <a href="https://github.com/Victor-Manin/api_yamdb.git" target="_blank">Review and API for YaMDb</a> работают:</h3>
+Проект создан в рамках обучения <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">Django</a> на факультете Бэкенд. Когорта №9+ Яндекс.Практикум.
 
-- 🌱 [Сергей Баляба](https://github.com/erges699)
-- 🌱 [Виктор Манин](https://github.com/Victor-Manin)
-- 🌱 [Никита Трошкин](https://github.com/KapkaDibab)
-
-<h3 align="left">В настоящее время изучаем <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">Django</a>, в проекте использеуем следующие фреймфорки: </h3>
+Использованы следующие технологии и пакеты:
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+</p>
 
 - 🔭 requests
-- 🔭 django
 - 🔭 djangorestframework
 - 🔭 PyJWT
 - 🔭 pytest
